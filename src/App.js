@@ -28,7 +28,6 @@ const AppLayout = () => {
     };
 
     setUserName(data.name);
-    setUserImage('https://avatar.iran.liara.run/public/boy?username=Ash');
   }, []);
 
   // console.log(Store);

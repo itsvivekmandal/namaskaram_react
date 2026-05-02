@@ -2,6 +2,7 @@
   "name": "namaskaram_react",
   "version": "1.0.0",
   "description": "This is Namaskaram React",
+  "proxy": "https://www.swiggy.com",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
